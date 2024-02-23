@@ -1,7 +1,7 @@
 {
   "name": "symphony",
   "version": "0.1.0",
-  "author": "Scott Darby <scott.darby@iohk.io>",
+  "author": "",
   "private": true,
   "browserify": {
     "transform": [
