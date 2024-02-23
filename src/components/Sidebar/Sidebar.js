@@ -22,7 +22,7 @@ export default class WebVRButton extends Component {
     return (
       <div className={sidebarClassName}>
         <button className='expand' onClick={this.props.toggleSidebar} />
-        <h1>Symphony</h1>
+        <h1>PulseChain</h1>
         <h2>3D Blockchain Explorer</h2>
         <div className='section key'>
           <h3>Transaction Value</h3>

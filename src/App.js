@@ -4367,7 +4367,7 @@ class App extends mixin(EventEmitter, Component) {
           <div className='logo-container'>
             {/* <img className='symphony-logo' src={logo} alt='Symphony Logo' /> */}
             <img className='symphony-logo' src={logo} alt='Symphony Logo' onClick={() => { this.initStage('high') }} />
-            <h1>Symphony</h1>
+            <h1>PulseChain</h1>
             <h2>3D Blockchain Explorer</h2>
 
             {('serviceWorker' in navigator)
